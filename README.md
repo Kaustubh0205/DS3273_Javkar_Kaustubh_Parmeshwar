@@ -1,3 +1,5 @@
+ShipsNet Classification with PyTorch
+
 Project Description
 This project is aimed at building a Convolutional Neural Network (CNN) classifier to detect the presence of ships in satellite imagery using the ShipsNet dataset.
 We train a deep learning model from scratch on preprocessed satellite images and evaluate its performance using a subset of the dataset.
