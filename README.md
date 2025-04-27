@@ -39,9 +39,10 @@ You can download the ShipsNet dataset from:
 
 > [ShipsNet Dataset](https://www.kaggle.com/datasets/rhammell/ships-in-satellite-imagery/data))
 
-**Instructions**:
-1. Go to the repository above.
-2. Download the `shipsnet.json` file.
-3. Place `shipsnet.json` inside your project directory (same level as `train.py`, `dataset.py`, etc.).
+**Important**:
+1. To use shipsnet.json for training, which was over 300Mb, could not upload it into repositery.
+2. i have upload it to my Drive
+3. Download the `shipsnet.json` file from the given link.
+4. Place `shipsnet.json` inside your data of project directory.
 
 
